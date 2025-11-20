@@ -25,7 +25,7 @@ Make sure you have **Java JDK** installed. Open a terminal or command prompt, na
 ```bash
 javac BankApp.java
 
-### Screenshots of the app live:
+Screenshots of the app live:
 
 ![Screenshot (29)](img/Screenshot (29).png)<br>
 ![Screenshot (30)](img/Screenshot (30).png)<br>

@@ -26,14 +26,14 @@ Make sure you have **Java JDK** installed. Open a terminal or command prompt, na
 javac BankApp.java
 
 ### Screenshots of the app live:<br>
-<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e1449e60-a4b9-452e-ab18-0b382fa92202" />
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/fc83f8ac-1442-49e6-9053-63135d213c50" />
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/57775d42-c545-47ed-bdc3-8ecfdbb3ddb5" />
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/3062ed60-11a3-4e07-9b50-671086203de7" />
-<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/d4ed9e5e-c3bb-480e-9e9d-1c64154a5e1a" />
-<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/db8def57-530c-45eb-83cc-61621c2122d3" />
-<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/5a74c5fb-72d4-4c32-95cd-1f69af2ce467" />
-<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/3b14547d-8f31-4eaf-9df9-359cd9e17483" />
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/150f060d-b499-4d64-a061-2cfb2ca99fcc" />
-<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/0a573fa1-a89e-4583-b6e9-5c29d0021e8c" />
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/97661067-8a5c-4b59-b8e1-db07e92a3139" />
+![Alt text for the image](img/Screenshot (29).png)<br>
+![Alt text for the image](img/Screenshot (30).png)<br>
+![Alt text for the image](img/Screenshot (31).png)<br>
+![Alt text for the image](img/Screenshot (32).png)<br>
+![Alt text for the image](img/Screenshot (33).png)<br>
+![Alt text for the image](img/Screenshot (34).png)<br>
+![Alt text for the image](img/Screenshot (35).png)<br>
+![Alt text for the image](img/Screenshot (36).png)<br>
+![Alt text for the image](img/Screenshot (37).png)<br>
+![Alt text for the image](img/Screenshot (38).png)<br>
+![Alt text for the image](img/Screenshot (39).png)<br>

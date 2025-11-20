@@ -27,15 +27,25 @@ javac BankApp.java
 ```
 ### 📸 Screenshots of the app live:
 
-![Screenshot (29)](img/Screenshot (29).png)<br>
-![Screenshot (30)](img/Screenshot (30).png)<br>
-![Screenshot (31)](img/Screenshot (31).png)<br>
-![Screenshot (32)](img/Screenshot (32).png)<br>
-![Screenshot (33)](img/Screenshot (33).png)<br>
-![Screenshot (34)](img/Screenshot (34).png)<br>
-![Screenshot (35)](img/Screenshot (35).png)<br>
-![Screenshot (36)](img/Screenshot (36).png)<br>
-![Screenshot (37)](img/Screenshot (37).png)<br>
-![Screenshot (38)](img/Screenshot (38).png)<br>
-![Screenshot (39)](img/Screenshot (39).png)<br>
+![Screenshot (29)](img/Screenshot (29).png)
+
+![Screenshot (30)](img/Screenshot (30).png)
+
+![Screenshot (31)](img/Screenshot (31).png)
+
+![Screenshot (32)](img/Screenshot (32).png)
+
+![Screenshot (33)](img/Screenshot (33).png)
+
+![Screenshot (34)](img/Screenshot (34).png)
+
+![Screenshot (35)](img/Screenshot (35).png)
+
+![Screenshot (36)](img/Screenshot (36).png)
+
+![Screenshot (37)](img/Screenshot (37).png)
+
+![Screenshot (38)](img/Screenshot (38).png)
+
+![Screenshot (39)](img/Screenshot (39).png)
 

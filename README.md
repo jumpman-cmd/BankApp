@@ -25,15 +25,17 @@ Make sure you have **Java JDK** installed. Open a terminal or command prompt, na
 ```bash
 javac BankApp.java
 
-### Screenshots of the app live:<br>
-<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/75a4c86b-4204-44dc-a5c6-79c80f3ac49e" /><br>
+### Screenshots of the app live:
+
+![Screenshot (29)](img/Screenshot_(29).png)<br>
+![Screenshot (30)](img/Screenshot_(30).png)<br>
+![Screenshot (31)](img/Screenshot_(31).png)<br>
+![Screenshot (32)](img/Screenshot_(32).png)<br>
+![Screenshot (33)](img/Screenshot_(33).png)<br>
+![Screenshot (34)](img/Screenshot_(34).png)<br>
+![Screenshot (35)](img/Screenshot_(35).png)<br>
+![Screenshot (36)](img/Screenshot_(36).png)<br>
+![Screenshot (37)](img/Screenshot_(37).png)<br>
+![Screenshot (38)](img/Screenshot_(38).png)<br>
+![Screenshot (39)](img/Screenshot_(39).png)<br>
+

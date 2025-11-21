@@ -46,6 +46,6 @@ javac BankApp.java
 <br><br>
 <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/71d7f80f-b36c-4750-a326-901e649b18d1" />
 <br><br>
-<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/20d36085-1680-481b-8471-ea6fe4432e0b" />
-
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/557f766f-69f2-4005-9845-eca148ae3217" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/20d36085-1680-481b-8471-ea6fe4432e0b" />
+<br><br>
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/557f766f-69f2-4005-9845-eca148ae3217" />
